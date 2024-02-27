@@ -235,7 +235,7 @@ i {
 }
 
 #sidebar nav a.pending {
-  color: hsl(224, 98%, 58%);
+  color: hsl(313, 98%, 58%);
 }
 
 #detail {
@@ -246,6 +246,7 @@ i {
 
 #detail.loading {
   opacity: 0.25;
+
   transition: opacity 200ms;
   transition-delay: 200ms;
 }
